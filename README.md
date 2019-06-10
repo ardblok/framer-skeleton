@@ -1,6 +1,6 @@
 # Skeleton
 
-!(skeleton.gif?raw=true)
+![](skeleton.gif?raw=true)
 
 ## Overview
 
