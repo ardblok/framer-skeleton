@@ -873,9 +873,9 @@
           {
             "__class" : "ExportOptions",
             "enabled" : true,
-            "nameExtension" : "@2x",
+            "nameExtension" : "@4x",
             "nameExtensionMode" : "Suffix",
-            "scale" : 2,
+            "scale" : 4,
             "type" : "png"
           }
         ],
