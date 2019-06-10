@@ -1,7 +1,5 @@
 # Skeleton
 
-![](skeleton.gif?raw=true)
-
 ## Overview
 
 Skeleton loading screens are a great way to reduce the perceived loading time of your product. Easily mock-up your loading screens with these components.
@@ -18,16 +16,19 @@ Use the ‘On Canvas’ property to choose if the swap should happen on the canv
 
 _Note: you have to reload the preview mode every time you open it_
 
-<br />
-
 ---
 
-# 💬 &nbsp; Feedback and support
+
+## 💬 &nbsp; Feedback and support
 
 Reach out if you have any feedback, questions or suggestions. I'd love to hear from you.
 [@ardblok](https://twitter.com/ardblok)
 
-# Changelog
+## Changelog
+
+### 1.2.0
+
+- Refinement of default props
 
 ### 1.0.0
 

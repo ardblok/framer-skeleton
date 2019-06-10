@@ -99,6 +99,11 @@ esutils@^2.0.2:
   resolved "https://artifactory.booking.com:443/api/npm/npm/esutils/-/esutils-2.0.2.tgz#0abf4f1caa5bcb1f7a9d8acc6dea4faaa04bac9b"
   integrity sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=
 
+framer@^1.0:
+  version "1.0.9"
+  resolved "https://artifactory.booking.com:443/api/npm/npm/framer/-/framer-1.0.9.tgz#8dfb1515c2cb125c12ec19ca0c5c36d15397cf2d"
+  integrity sha1-jfsVFcLLElwS7BnKDFw20VOXzy0=
+
 has-flag@^3.0.0:
   version "3.0.0"
   resolved "https://artifactory.booking.com:443/api/npm/npm/has-flag/-/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"

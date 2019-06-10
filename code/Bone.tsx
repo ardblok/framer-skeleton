@@ -106,6 +106,11 @@ addPropertyControls(Bone, {
     },
     animDelay: {
         type: ControlType.Number,
+        min: 0,
+        max: 30,
+        unit: "s",
+        step: 0.1,
+        displayStepper: true,
         title: "Delay",
         hidden(props) {
             return props.animate === false

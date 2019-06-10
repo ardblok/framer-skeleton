@@ -81,7 +81,7 @@ export function Swap(props: Props) {
 
 Swap.defaultProps = {
     ready: false,
-    interval: 1.2,
+    interval: 3,
     width: 343,
     height: 200,
     onCanvas: false,
@@ -99,7 +99,7 @@ addPropertyControls(Swap, {
     interval: {
         type: ControlType.Number,
         min: 0,
-        max: 10,
+        max: 60,
         unit: "s",
         step: 0.1,
         displayStepper: true,

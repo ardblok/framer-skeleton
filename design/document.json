@@ -1715,7 +1715,14 @@
         "constraintsLocked" : false,
         "deviceType" : null,
         "exportOptions" : [
-
+          {
+            "__class" : "ExportOptions",
+            "enabled" : true,
+            "nameExtension" : "@2x",
+            "nameExtensionMode" : "Suffix",
+            "scale" : 2,
+            "type" : "png"
+          }
         ],
         "fillColor" : "rgba(15, 56, 177, 1.00)",
         "fillEnabled" : true,
